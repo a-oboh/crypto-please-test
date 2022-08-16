@@ -2,8 +2,8 @@ import 'package:crypto_please_challenge/core/utils/app_assets.dart';
 import 'package:crypto_please_challenge/core/utils/injection/service_locator.dart';
 import 'package:crypto_please_challenge/feature/calculator/presentation/bloc/calculator_cubit.dart';
 import 'package:crypto_please_challenge/feature/calculator/presentation/calculator_page.dart';
-import 'package:crypto_please_challenge/feature/home_page.dart/presentation/bloc/home_cubit.dart';
-import 'package:crypto_please_challenge/feature/home_page.dart/presentation/bloc/home_state.dart';
+import 'package:crypto_please_challenge/feature/home_page/presentation/bloc/home_cubit.dart';
+import 'package:crypto_please_challenge/feature/home_page/presentation/bloc/home_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

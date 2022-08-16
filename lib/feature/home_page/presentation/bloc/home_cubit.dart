@@ -1,5 +1,5 @@
-import 'package:crypto_please_challenge/feature/home_page.dart/domain/usecases/get_coins_use_case.dart';
-import 'package:crypto_please_challenge/feature/home_page.dart/presentation/bloc/home_state.dart';
+import 'package:crypto_please_challenge/feature/home_page/domain/usecases/get_coins_use_case.dart';
+import 'package:crypto_please_challenge/feature/home_page/presentation/bloc/home_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:injectable/injectable.dart';
 import 'package:intl/intl.dart';

@@ -1,4 +1,4 @@
-import 'package:crypto_please_challenge/feature/home_page.dart/data/coins_list_response.dart';
+import 'package:crypto_please_challenge/feature/home_page/data/coins_list_response.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 import 'package:retrofit/retrofit.dart';

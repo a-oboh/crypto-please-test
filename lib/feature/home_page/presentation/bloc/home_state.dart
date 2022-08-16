@@ -1,4 +1,4 @@
-import 'package:crypto_please_challenge/feature/home_page.dart/data/coins_list_response.dart';
+import 'package:crypto_please_challenge/feature/home_page/data/coins_list_response.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'home_state.freezed.dart';

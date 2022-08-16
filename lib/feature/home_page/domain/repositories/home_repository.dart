@@ -1,6 +1,6 @@
 import 'package:crypto_please_challenge/core/extensions/extensions.dart';
-import 'package:crypto_please_challenge/feature/home_page.dart/data/coins_list_response.dart';
-import 'package:crypto_please_challenge/feature/home_page.dart/data/home_remote_datasource.dart';
+import 'package:crypto_please_challenge/feature/home_page/data/coins_list_response.dart';
+import 'package:crypto_please_challenge/feature/home_page/data/home_remote_datasource.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 
